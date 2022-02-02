@@ -1,7 +1,5 @@
-const MovieCard = () => {
-  return ( 
-    <div>Movie Card</div>
-    );
-}
- 
+const MovieCard = () => (
+  <div>Movie Card</div>
+);
+
 export default MovieCard;
