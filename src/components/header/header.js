@@ -5,7 +5,7 @@ import avatar from '../../images/person.png';
 const Header = () => (
   <header className="header">
     <Link to="/">
-      <div className="logo">Movietopia</div>
+      <div className="logo">Moviestopia</div>
     </Link>
     <div className="user-img">
       <img src={avatar} alt="User avatar" />
