@@ -4,11 +4,12 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Quintessential', cursive;
+  font-family: "Quintessential", cursive;
 }
 
 a {
   text-decoration: none;
+  color: $font-primary;
 }
 
 body {
