@@ -1,1 +1,19 @@
 @import "../../common/colors.scss";
+
+/* Parent to footer */
+.app {
+  position: relative;
+}
+
+.footer {
+  background: $secondary-color;
+  width: 100%;
+  height: 2em;
+  display: flex;
+  align-items: center;
+  color: $font-primary;
+  flex-direction: column;
+  position: fixed;
+  bottom: 0;
+  z-index: 0;
+}

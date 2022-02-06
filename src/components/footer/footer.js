@@ -1,7 +1,9 @@
+import './footer.scss';
+
 const Footer = () => (
-  <div>
-    footer
-  </div>
+  <footer className="footer">
+    <div>Moviestopia inc.</div>
+  </footer>
 );
 
 export default Footer;
